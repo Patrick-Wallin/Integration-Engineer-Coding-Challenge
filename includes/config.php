@@ -1,0 +1,3 @@
+<?php
+    define('APP_NAME', 'INTEGRATION CODING CHALLENGE PHP REST API');
+?>
